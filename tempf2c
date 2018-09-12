@@ -1,0 +1,6 @@
+#include <stdio.h>
+main()
+//Program for converting temperature in degrees Fahrenheit to degrees Celsius from user input
+//Alec M
+//9/12/18 gcc - c
+
